@@ -22,49 +22,47 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 <h3>Installation</h3>
 <p>Clone the repository and navigate into the project directory:</p>
 
-
-<pre><code>
+```sh
 git clone https://github.com/aayushx402/Todo
 cd todo
-</code></pre>
-
+```
 <p>Build the project:</p>
 
-<pre><code>
+```sh
 cargo build --release
-</code></pre>
+```
 
 <p>Run the project:</p>
 
-<pre><code>
+```sh
 cargo run
-</code></pre>
+```
 
 <h3>Usage</h3>
 
 <p>Add a new task:</p>
 
-<pre><code>
+```sh
 cargo run -- add "Your task here"
-</code></pre>
+```
 
 <p>View all tasks:</p>
 
-<pre><code>
+```sh
 cargo run -- list
-</code></pre>
+```
 
 <p>Mark a task as done:</p>
 
-<pre><code>
+```sh
 cargo run -- done 1
-</code></pre>
+```
 
 <p>Delete a task:</p>
 
-<pre><code>
+```sh
 cargo run -- delete 1
-</code></pre>
+```
 
 <h2>🛠️ Built With</h2>
 <ul>
