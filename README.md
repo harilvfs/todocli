@@ -14,23 +14,28 @@
 
 <h3>Prerequisites</h3>
 <p>Ensure you have Rust installed. If not, you can install it via <a href="https://rustup.rs/" target="_blank">rustup</a>.</p>
+
 <pre><code>
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 </code></pre>
 
 <h3>Installation</h3>
 <p>Clone the repository and navigate into the project directory:</p>
+
+
 <pre><code>
-git clone https://github.com/yourusername/todo-project.git
-cd todo-project
+git clone https://github.com/aayushx402/Todo
+cd todo
 </code></pre>
 
 <p>Build the project:</p>
+
 <pre><code>
 cargo build --release
 </code></pre>
 
 <p>Run the project:</p>
+
 <pre><code>
 cargo run
 </code></pre>
@@ -38,21 +43,25 @@ cargo run
 <h3>Usage</h3>
 
 <p>Add a new task:</p>
+
 <pre><code>
 cargo run -- add "Your task here"
 </code></pre>
 
 <p>View all tasks:</p>
+
 <pre><code>
 cargo run -- list
 </code></pre>
 
 <p>Mark a task as done:</p>
+
 <pre><code>
 cargo run -- done 1
 </code></pre>
 
 <p>Delete a task:</p>
+
 <pre><code>
 cargo run -- delete 1
 </code></pre>
@@ -70,7 +79,7 @@ cargo run -- delete 1
 <p>Contributions are welcome! Please feel free to submit a Pull Request.</p>
 
 <h2>💬 Contact</h2>
-<p>Feel free to reach out via <a href="mailto:your.email@example.com">Email</a> or <a href="https://github.com/yourusername" target="_blank">GitHub</a>.</p>
+<p>Feel free to reach out via <a href="mailto:aayushchalise8@gmail.com">Email</a> or <a href="https://github.com/aayushx402" target="_blank">GitHub</a>.</p>
 
 <hr>
 
