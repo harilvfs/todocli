@@ -15,9 +15,9 @@
 <h3>Prerequisites</h3>
 <p>Ensure you have Rust installed. If not, you can install it via <a href="https://rustup.rs/" target="_blank">rustup</a>.</p>
 
-<pre><code>
+```sh
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-</code></pre>
+```
 
 <h3>Installation</h3>
 <p>Clone the repository and navigate into the project directory:</p>
