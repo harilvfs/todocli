@@ -24,7 +24,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 ```sh
 git clone https://github.com/harilvfs/todocli
-cd todo
+cd todocli/
 ```
 <p>Build the project:</p>
 
