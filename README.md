@@ -23,7 +23,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 <p>Clone the repository and navigate into the project directory:</p>
 
 ```sh
-git clone https://github.com/aayushx402/Todo
+git clone https://github.com/harilvfs/todocli
 cd todo
 ```
 <p>Build the project:</p>
@@ -77,7 +77,7 @@ cargo run -- delete 1
 <p>Contributions are welcome! Please feel free to submit a Pull Request.</p>
 
 <h2>💬 Contact</h2>
-<p>Feel free to reach out via <a href="mailto:aayushchalise8@gmail.com">Email</a> or <a href="https://github.com/aayushx402" target="_blank">GitHub</a>.</p>
+<p>Feel free to reach out via <a href="mailto:ingoprivate@gmail.com">Email</a> or <a href="https://github.com/harilvfs" target="_blank">GitHub</a>.</p>
 
 <hr>
 
