@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-No-red?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/harilvfs/tpdocli?style=for-the-badge">
+</p>
+
 <h1>📝 Todo Project</h1>
 
 <p>Welcome to the <strong>Todo Project</strong> – a simple yet effective CLI-based task manager written in Rust. This project is designed to help you manage your tasks while honing your Rust programming skills.</p>
